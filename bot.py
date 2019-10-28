@@ -29,5 +29,5 @@ $HMO lookup [UserName] \n \
 #yeg
     if message.content.startswith('yeg'):
             await message.channel.send('yeg')
-client.run('NjM4MTIxNzA3NTUwNTM5Nzc4.XbYIjA.QwK2eA2o1maQHs6sHgVxKSQeQgY')
+client.run('')
 
